@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="tab_one">主界面</string>
+    <string name="tab_two">时间消费</string>
+    <string name="tab_three">设置</string>
+</resources>
