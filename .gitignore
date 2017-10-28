@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+=======
 # Built application files
 *.apk
 *.ap_
@@ -53,3 +64,4 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+>>>>>>> 8012fddd564a8f2c00bf6c450d0749d73b3bf925
